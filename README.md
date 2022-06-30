@@ -12,11 +12,11 @@
 ### * Reports
  #### 01. Test Results Tree 
 
-![Jmeter Results Tree](./Report_Images/ResultsTree.png)
+![Jmeter Results Tree](./Report_Images/Results_Tree.png)
 
  #### 02. Test Summery Report 
 
-![Jmeter Summery Report ](./Report_Images/SummeryReport.png)
+![Jmeter Summery Report ](./Report_Images/Summery_Report.png)
 
  #### 03. Summery Report and Statistics
 
